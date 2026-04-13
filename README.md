@@ -1,14 +1,22 @@
-# Rent Payment App
+# Smart Rent Payment Dashboard
 
-A React-based application to simulate rent payments.
+A modern React-based web application that simplifies rent payments with an intuitive dashboard and dynamic calculations.
 
-## Features
-- Add tenant details
-- Select rent duration
-- Calculate total rent
-- Clean UI with React + Tailwind
+## 🚀 Features
+- Multi-month rent selection
+- Real-time rent calculation
+- Payment method integration UI
+- Animated success feedback
+- Payment history tracking
 
-## Tech Stack
+## 🛠 Tech Stack
 - React.js
-- Vite
 - Tailwind CSS
+- Vite
+- Framer Motion
+
+## 📸 Screenshots
+(Add images here)
+
+## 🌐 Live Demo
+(Add Vercel link)
